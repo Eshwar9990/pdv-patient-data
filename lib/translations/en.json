@@ -1,0 +1,12 @@
+{
+    "DataForm.webSpeechError": "Sorry, Your Browser Doesn't Support the Web Speech API. Try Opening This Demo In Google Chrome.",
+    "DataForm.startRecognitionButton": "Start Recognition ",
+    "DataForm.recordingInstructions_1": "Press ",
+    "DataForm.recordingInstructions_2": "Start Recognition",
+    "DataForm.recordingInstructions_3": " button to select Dropdown value by speech recognition",
+    "DataForm.recordingFormat_1": "For Example: You can say ",
+    "DataForm.submitBtn": "Submit",
+    "DataHome.newLogMsg": "Click here to create a new log",
+    "DataHome.or": "OR",
+    "DataHome.editRecordMsg": "Click on any record to edit"
+}

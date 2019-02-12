@@ -1,0 +1,115 @@
+.dropdown-button {
+    width: 270px;
+}
+
+.dropdown-toggle::after {
+  float: right;
+  position: relative;
+  top: 10px;
+}
+
+.pd-table label {
+  margin-bottom: 0px;
+}
+
+.pd-table {
+  margin-bottom: 5px;
+}
+
+.btn-recog {
+  background-color: #0995DB;
+  border-color: #0995DB;
+  color: white;
+}
+
+.dropDownContainer {
+  margin-top: 5px;
+  height: 532px;
+  overflow-y: scroll;
+}
+
+.recordingInstructions {
+  position: relative;
+  padding-left: 0px;
+}
+
+#recording-instructions {
+  line-height: 40px;
+  margin-bottom: 3px;
+  font-size: 15px;
+}
+
+.alert {
+  padding: .5rem 1rem;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.alert-info {
+  /* color: #066293;
+  background-color: #b6e4fc;
+  border-color: #9ddafb; */
+  color: black;
+  background-color: #f2f2f2;
+  border-color: #cccccc;
+}
+
+label {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.pd-table td {
+  padding: 0 5px 5px 5px;
+  
+}
+
+.submit-btn {
+    position: relative;
+  right: 35px;
+}
+
+.asterisk {
+  font-size: 9px;
+  position: relative;
+  color: red;
+  left: 2px;
+  bottom: 4px;
+}
+
+.no-browser-support {
+  display: none;
+}
+
+.name-input {
+  width: 270px;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-right: 20px solid transparent;
+  border-top: 20px solid #f00;
+  position: absolute;
+  left: -1px;
+  bottom: 21px;
+}
+
+.not-allowed {
+  cursor: not-allowed;
+}
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+@keyframes App-logo-spin {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "DataForm.webSpeechError": "Entschuldigung, Ihr Browser unterstützt die Web-Sprach-API nicht. Versuchen Sie, diese Demo in Google Chrome zu öffnen.",
+    "DataForm.startRecognitionButton": "Starten Sie die Erkennung ",
+    "DataForm.recordingInstructions_1": "Drücken Sie ",
+    "DataForm.recordingInstructions_2": "Starten Sie die Erkennung",
+    "DataForm.recordingInstructions_3": " um den Dropdown-Wert durch Spracherkennung auszuwählen",
+    "DataForm.recordingFormat_1": "Zum Beispiel: Sie können sagen ",
+    "DataForm.submitBtn": "einreichen",
+    "DataHome.newLogMsg": "Klicken Sie hier, um ein neues Protokoll zu erstellen",
+    "DataHome.or": "ODER",
+    "DataHome.editRecordMsg": "Klicken Sie auf einen Datensatz, um ihn zu bearbeiten"
+}
